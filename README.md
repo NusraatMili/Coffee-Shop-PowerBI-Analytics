@@ -1,8 +1,8 @@
 # ☕ Coffee Shop Analytics — Power BI Dashboard
 
-A 5-page interactive Power BI report analyzing sales performance, 
-customer behavior, product profitability, feedback sentiment, 
-and revenue forecasting for a coffee shop business.
+Built a Coffee Shop Analytics Dashboard using MySQL and Power BI.
+
+Designed and populated SQL tables in MySQL, then transformed and analyzed the data in Power BI to create a 5-page interactive dashboard covering sales performance, customer insights, product profitability, feedback analysis, and revenue forecasting.
 
 ---
 
@@ -31,11 +31,13 @@ and revenue forecasting for a coffee shop business.
 
 ## 🛠️ Tools & Techniques Used
 
-- **Power BI Desktop** — Report design, DAX measures, data modeling
+- **MySQL & MySQL Workbench** — Database design, table creation, SQL queries for data extraction
+- **Star Schema Modeling** — Fact and dimension tables designed for analytical querying
+- **Power BI Desktop** — Data import from MySQL, report design, DAX measures
 - **DAX** — KPI calculations, profit margin, risk classification, forecast measures
 - **Data Visualization** — Bar charts, line charts, donut chart, matrix table, KPI cards
 - **Business Analysis** — Customer segmentation, revenue forecasting, feedback analysis
-
+  
 ---
 
 ## 📸 Screenshots
@@ -62,7 +64,9 @@ and revenue forecasting for a coffee shop business.
 | File | Description |
 |------|-------------|
 | `Coffee_Shop_Analytics.pbix` | Main Power BI report file |
+| `sql/Coffee_Shop_Analytics_Tables.sql` | MySQL table creation scripts and data extraction queries |
 | `images/` | Dashboard page screenshots |
+
 
 ---
 
