@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Analytics — Power BI Dashboard
+# ☕ Coffee Shop Analytics - Power BI Dashboard
 
 Built a Coffee Shop Analytics Dashboard using MySQL and Power BI.
 
@@ -20,41 +20,41 @@ Designed and populated SQL tables in MySQL, then transformed and analyzed the da
 
 ## 🔍 Key Insights
 
-- **47%** of daily orders occur between **6 AM – 11 AM**
+- **47%** of daily orders occur between **6 AM - 11 AM**
 - **Mocha** and **Latte** are top revenue drivers, contributing over **35%** of total revenue
 - Overall **Profit Margin** is healthy at **60%**
 - **Coffee** category dominates with **253K** revenue out of 391.82K total
-- **33%** of customers are classified as "At Risk" — retention action needed
-- Revenue forecast for May 2025 shows a **−3.22% growth** trend — an early warning signal
+- **33%** of customers are classified as "At Risk" - retention action needed
+- Revenue forecast for May 2025 shows a **-3.22% growth** trend - an early warning signal
 
 ---
 
 ## 🛠️ Tools & Techniques Used
 
-- **MySQL & MySQL Workbench** — Database design, table creation, SQL queries for data extraction
-- **Star Schema Modeling** — Fact and dimension tables designed for analytical querying
-- **Power BI Desktop** — Data import from MySQL, report design, DAX measures
+- **MySQL & MySQL Workbench** - Database design, table creation, SQL queries for data extraction
+- **Star Schema Modeling** - Fact and dimension tables designed for analytical querying
+- **Power BI Desktop** - Data import from MySQL, report design, DAX measures
 - **DAX** — KPI calculations, profit margin, risk classification, forecast measures
-- **Data Visualization** — Bar charts, line charts, donut chart, matrix table, KPI cards
-- **Business Analysis** — Customer segmentation, revenue forecasting, feedback analysis
+- **Data Visualization** - Bar charts, line charts, donut chart, matrix table, KPI cards
+- **Business Analysis** - Customer segmentation, revenue forecasting, feedback analysis
   
 ---
 
 ## 📸 Screenshots
 
-### P1 — Coffee Shop Analytics Overview
+### P1 - Coffee Shop Analytics Overview
 ![P1](images/P1_Overview.png)
 
-### P2 — Sales Analysis
+### P2 - Sales Analysis
 ![P2](images/P2_Sales_Analysis.png)
 
-### P3 — Customer Insights
+### P3 - Customer Insights
 ![P3](images/P3_Customer_Insights.png)
 
-### P4 — Feedback & Business Risk
+### P4 - Feedback & Business Risk
 ![P4](images/P4_Feedback_Risk.png)
 
-### P5 — Revenue & Sales Prediction
+### P5 - Revenue & Sales Prediction
 ![P5](images/P5_Revenue_Prediction.png)
 
 ---
